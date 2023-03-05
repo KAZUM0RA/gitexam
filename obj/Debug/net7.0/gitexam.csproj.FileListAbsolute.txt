@@ -1,0 +1,15 @@
+D:\C#\GItHub\gitexam\bin\Debug\net7.0\gitexam.exe
+D:\C#\GItHub\gitexam\bin\Debug\net7.0\gitexam.deps.json
+D:\C#\GItHub\gitexam\bin\Debug\net7.0\gitexam.runtimeconfig.json
+D:\C#\GItHub\gitexam\bin\Debug\net7.0\gitexam.dll
+D:\C#\GItHub\gitexam\bin\Debug\net7.0\gitexam.pdb
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\gitexam.csproj.AssemblyReference.cache
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\gitexam.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\gitexam.AssemblyInfoInputs.cache
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\gitexam.AssemblyInfo.cs
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\gitexam.csproj.CoreCompileInputs.cache
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\gitexam.dll
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\refint\gitexam.dll
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\gitexam.pdb
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\gitexam.genruntimeconfig.cache
+D:\C#\GItHub\gitexam\obj\Debug\net7.0\ref\gitexam.dll

@@ -124,6 +124,8 @@ public class CoffeeContext : IContext<Coffee>
         foreach(var coffee in _coffee)
             AllMoney += coffee.Count * coffee.Price;
             
+        Console.WriteLine($"\nОбщая сумма бабла \n{AllMoney}");
+            
         return AllMoney;
         
     }

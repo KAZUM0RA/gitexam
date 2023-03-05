@@ -64,7 +64,6 @@ public class CoffeeContext : IContext<Coffee>
             throw new ArgumentException("error");
         coffee.CoffeeName = entity.CoffeeName;
         coffee.CoffeeType = entity.CoffeeType;
-        coffee.Count = entity.Count;
         coffee.Price = entity.Price;
         
     }

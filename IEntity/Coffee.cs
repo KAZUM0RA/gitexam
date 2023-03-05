@@ -6,6 +6,6 @@ public class Coffee : IEntity
     public string? CoffeeName { get; set; }
     public string? CoffeeType { get; set; }
     public int Count { get; set; }
-    public string? Price {get; set;}
+    public int Price {get; set;}
 
 }

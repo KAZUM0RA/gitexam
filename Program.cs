@@ -19,10 +19,6 @@ context.Create(new Coffee
     Count = 1,
     Price = 9
 });
-
-
-context.Save();
-
 context.Create(new Coffee
 {
     CreatedAt =DateTime.Now,
@@ -37,6 +33,12 @@ context.Create(new Coffee
     CoffeeName = "Mocachno",
     CoffeeType = "Arabica",
     Count = 3,
-    Price = 36
+    Price = 18
 });
 context.Save();
+
+
+context.PrintAllSortedByDate();
+context.PrintAllSortedPrice();
+context.GetAllMoney();
+
